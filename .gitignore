@@ -1,0 +1,22 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+
+# Ignore environment variable files (secrets)
+.env
+.env.*
+*.env
+
+# Ignore Python cache files and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor project settings
+.vscode/
+.idea/

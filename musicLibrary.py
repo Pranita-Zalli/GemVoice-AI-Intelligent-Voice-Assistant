@@ -1,0 +1,9 @@
+music={
+    "bulleya":"https://www.youtube.com/watch?v=6UWH7D7USOM",
+    "gilhari":"https://www.youtube.com/watch?v=w6CX0V4shMg",
+    "doraemon":"https://www.youtube.com/watch?v=SSUbntk63Yg",
+    "sinchan":"https://www.youtube.com/watch?v=-0zRMNVDUVw",
+    "pal":"https://www.youtube.com/shorts/oo0_jMLP1Ro",
+    "raat":"https://www.youtube.com/shorts/OepMGg8QwCw",
+    "sky":"https://www.youtube.com/watch?v=OnquOq66Vkw"
+}
