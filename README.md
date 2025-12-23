@@ -12,6 +12,7 @@ for weather updates, news retrieval, and system-level automation.
 ---
 
 ✨ Key Features
+
 🎤 Voice command recognition and text-to-speech
 🤖 AI-powered responses using Google Gemini API
 🌦 Real-time weather updates via WeatherStack API
@@ -23,6 +24,7 @@ for weather updates, news retrieval, and system-level automation.
 ---
 
 🛠 Technology Stack
+
 Python
 SpeechRecognition
 PyAudio
@@ -43,11 +45,13 @@ Gemini AI (gemini-2.5-flash) – for generating intelligent, context-aware respo
 ---
 
 🧠 Solution Description:
+
 GemVoice AI is a Python-based intelligent voice assistant that uses Google Gemini AI to generate contextual responses and integrates real-time APIs for weather, news, and task automation. Users interact through voice commands to open applications, initiate WhatsApp chats, fetch weather updates, listen to news, and ask general questions. The assistant combines speech recognition, text-to-speech, AI integration, and system automation to deliver a responsive, hands-free user experience, demonstrating practical implementation of voice-based AI systems in real-world scenarios.
 
 ---
 
 🚀 Installation & Setup
+
 1️⃣ Clone the repository
 git clone https://github.com/Pranita-Zalli/GemVoice-AI-Intelligent-Voice-Assistant.git
 cd GemVoice-AI-Intelligent-Voice-Assistant
@@ -65,11 +69,13 @@ news_api=your_news_api_key
 ---
 
 4️⃣ Run the project
+
 python main.py
 
 ---
 
 🎤 Usage
+
 Run the program
 Say “Jarvis” to activate
 Try commands like:
