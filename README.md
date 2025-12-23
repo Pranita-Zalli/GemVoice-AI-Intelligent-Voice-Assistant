@@ -7,6 +7,7 @@
 ---
 
 📌 Overview
+
 GemVoice AI is a Python-based intelligent voice assistant that enables natural voice interaction to automate everyday
 tasks and provide real-time information. It uses Google Gemini AI for intelligent responses and integrates multiple APIs 
 for weather updates, news retrieval, and system-level automation.
@@ -146,6 +147,7 @@ python main.py
 ---
 
 📌 Project Highlights
+
 - Practical implementation of AI + voice systems
 - Real-world API integration
 - Modular and extensible project structure
