@@ -1,7 +1,6 @@
 ## 🎥 Demo Video
 
-Watch a short demo of **GemVoice AI**, showcasing:
-👉 **[Watch Demo Video](https://drive.google.com/file/d/1wasBdTYn5Ss-pPvBbqr_DZ6AGxH4EeJd/view?usp=drivesdk)**
+👉 **[Experience GemVoice AI in Action 🚀](https://drive.google.com/file/d/1wasBdTYn5Ss-pPvBbqr_DZ6AGxH4EeJd/view?usp=drivesdk)**
 
 ---
 
