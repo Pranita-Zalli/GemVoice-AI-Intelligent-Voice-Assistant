@@ -2,7 +2,7 @@
 
 🔗 MVP – Experience GemVoice AI Live
 - **GitHub Repository (Working Project):** [Explore the Code & Run Your Own Assistant](https://github.com/Pranita-Zalli/GemVoice-AI-Intelligent-Voice-Assistant)
-- **3-Minute Demo Video:** [See GemVoice AI in Action 🚀](https://drive.google.com/file/d/1wasBdTYn5Ss-pPvBbqr_DZ6AGxH4EeJd/view?usp=drivesdk)
+- **3-Minute Demo Video:** [See GemVoice AI in Action 🚀](https://drive.google.com/file/d/1g8iKi-3YewJD-buhD2fXX2EfnBlJRBE4/view?usp=drivesdk)
 
 ---
 
