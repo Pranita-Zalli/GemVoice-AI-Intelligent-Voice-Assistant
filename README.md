@@ -1,12 +1,19 @@
 🎙️ **GemVoice AI – Intelligent Voice Assistant**
 
-🔗 MVP – Experience GemVoice AI Live
-- **GitHub Repository (Working Project):** [Explore the Code & Run Your Own Assistant](https://github.com/Pranita-Zalli/GemVoice-AI-Intelligent-Voice-Assistant)
-- **3-Minute Demo Video:** [See GemVoice AI in Action 🚀](https://drive.google.com/file/d/1g8iKi-3YewJD-buhD2fXX2EfnBlJRBE4/view?usp=drivesdk)
+🚀 **Experience GemVoice AI Live**
 
+🔗 **MVP (Windows Executable):** [Download & Run GemVoice AI](https://drive.google.com/file/d/1Eu-lUfvommXStlp_oehe9-qrxxIhjIk3/view?usp=drive_link)
+
+### Running the MVP
+  1. Download the `.exe` file from the MVP link
+  2. Double-click to run the application
+  3. If Windows security warning appears, click **More info → Run anyway**
+  4. Ensure microphone access and internet connection are enabled
+
+🎥 **3-Minute Demo Video:** [See GemVoice AI in Action 🚀](https://drive.google.com/file/d/1g8iKi-3YewJD-buhD2fXX2EfnBlJRBE4/view?usp=drivesdk)
 ---
 
-📌 Overview
+📌 **Overview**
 
 GemVoice AI is a Python-based intelligent voice assistant that enables natural voice interaction to automate everyday
 tasks and provide real-time information. It uses Google Gemini AI for intelligent responses and integrates multiple APIs 
@@ -14,7 +21,7 @@ for weather updates, news retrieval, and system-level automation.
 
 ---
 
-🚀Key Features
+🚀**Key Features**
 
 🔊 Voice Activation
 - Activated using the keyword “Jarvis”
@@ -71,7 +78,7 @@ Opens the requested website instantly in the default browser.
 
 ---
 
-🛠 Technology Stack
+🛠 **Technology Stack**
 
 - Python  
 - SpeechRecognition  
@@ -84,21 +91,21 @@ Opens the requested website instantly in the default browser.
 
 ---
 
-🟢 Google Technologies Used (Mandatory)
+🟢 **Google Technologies Used (Mandatory)**
 - Google Gemini API (Generative Language API)
 
-🤖 Google AI Tools Integrated
+🤖 **Google AI Tools Integrated**
 - Gemini AI (gemini-2.5-flash) – for generating intelligent, context-aware responses to user queries
 
 ---
 
-🧠 Solution Description:
+🧠 **Solution Description:**
 
 GemVoice AI is a Python-based intelligent voice assistant that uses Google Gemini AI to generate contextual responses and integrates real-time APIs for weather, news, and task automation. Users interact through voice commands to open applications, initiate WhatsApp chats, fetch weather updates, listen to news, and ask general questions. The assistant combines speech recognition, text-to-speech, AI integration, and system automation to deliver a responsive, hands-free user experience, demonstrating practical implementation of voice-based AI systems in real-world scenarios.
 
 ---
 
-🚀 Installation & Setup
+🚀 **Installation & Setup**
 
 1️⃣ Clone the repository
 
@@ -129,9 +136,11 @@ Note: config.py is ignored in version control to keep API keys secure.
     python main.py
 
 MVP: A preconfigured Windows executable is provided via a separate MVP link for evaluation.
+
 ---
 
-🔧 Voice Assistant Workflow
+
+🔧 **Voice Assistant Workflow**
 
 1️⃣ Voice Input 🎤  
    Captured using microphone and SpeechRecognition.
@@ -154,7 +163,7 @@ MVP: A preconfigured Windows executable is provided via a separate MVP link for 
 
 ---
 
-📌 Project Highlights
+📌 **Project Highlights**
 
 - Practical implementation of AI + voice systems
 - Real-world API integration
